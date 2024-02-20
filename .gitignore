@@ -1,0 +1,5 @@
+*.suo
+x64
+.vs
+*.user
+*.filters
